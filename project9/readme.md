@@ -2,4 +2,8 @@ netlify - free domain/ website
 main, layout, and global can be recr=ycled
 
 transform- scale, rotate, translate (x, y), skew, scale 
-46:25
+
+
+font : style, variant, weight, family
+
+for shadows - can used negative values for x and y to push them to the left
